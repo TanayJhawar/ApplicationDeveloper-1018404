@@ -1,0 +1,4 @@
+#Tue Nov 21 23:21:20 CST 2023
+base.0=/Users/tjhawar/AndroidStudioProjects/task/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
